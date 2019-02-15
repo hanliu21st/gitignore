@@ -1,3 +1,8 @@
+# This is my fork of github's .gitgnore template
+1. 2019/02/15
+2. I am free to modify any of these file to suit my need
+
+# --------------------------------------------------------------
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
